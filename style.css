@@ -1,0 +1,41 @@
+/* *{
+box-sizing: border-box;
+
+} */
+body{
+    height: 150vh;
+}
+/* }
+.practice{
+    width:100%;
+    max-width: 200px;
+    height: 200px;
+    background-color: #bb3145;
+    margin: 16px;
+    padding:18px 18px;
+    border: 9px solid black;
+
+} */
+.baba{
+  position:sticky;
+   top:0;
+}
+
+.parent{
+    height: 80px;
+    background-color: aquamarine;
+  
+     
+}
+.child{
+    top:0;
+    right:0;
+    position: absolute;
+    
+}
+
+.button{
+    background-color: #bb3145;
+    padding:10px;
+    border:0 20px;
+}
